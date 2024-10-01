@@ -2,6 +2,9 @@
 
 
 ## Task 16 : DS1302 RTC interfacing
+
+![Alt text](img.jpg)
+
 1. Study the datasheet of RTC DS1302 
 https://datasheets.maximintegrated.com/en/ds/DS1302.pdf
 2. Write a driver for DS1302 to read and write data/time. 
